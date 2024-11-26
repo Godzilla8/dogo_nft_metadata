@@ -1,0 +1,39 @@
+{
+  "name": "DOGO NFT #1",
+  "symbol": "DOGO",
+  "description": "This is a test NFT for the DOGO project, showcasing what the metadata would look like.",
+  "image": "https://github.com/Godzilla8/dogo_nft_metadata/blob/main/suit-dogo.png",
+  "external_url": "https://dogo-web.vercel.app/", 
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Pitbull"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Hungry"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "FutUoBMs1oNj5MQow7NpezDiHADNJrim2a2CtoVsv3yQ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/Godzilla8/dogo_nft_metadata/blob/main/suit-dogo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
