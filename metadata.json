@@ -2,7 +2,7 @@
   "name": "DOGO NFT #1",
   "symbol": "DOGO",
   "description": "This is a test NFT for the DOGO project, showcasing what the metadata would look like.",
-  "image": "https://asset.cloudinary.com/geeluv/3796710e2c084e563546bf2cb21a4b7d",
+  "image": "https://res.cloudinary.com/geeluv/image/upload/v1732708034/suit-dogo_yesjqn.png",
   "external_url": "https://dogo-web.vercel.app/", 
   "attributes": [
     {
@@ -31,7 +31,7 @@
     ],
     "files": [
       {
-        "uri": "https://asset.cloudinary.com/geeluv/3796710e2c084e563546bf2cb21a4b7d",
+        "uri": "https://res.cloudinary.com/geeluv/image/upload/v1732708034/suit-dogo_yesjqn.png",
         "type": "image/png"
       }
     ]
